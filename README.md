@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**mlasersohn/mlasersohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Mark Lasersohn is a retired programmer interested in digital video, 3D, and experimental user interface design. My repositories here:
 https://github.com/mlasersohn/dvptz
